@@ -1,0 +1,3 @@
+/home/gheitner/Cpts223/PA1/build/CMakeFiles/PA1.dir
+/home/gheitner/Cpts223/PA1/build/CMakeFiles/edit_cache.dir
+/home/gheitner/Cpts223/PA1/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g CMakeFiles/PA1.dir/main.cpp.o CMakeFiles/PA1.dir/linkedlist.cpp.o -o PA1 
