@@ -1,0 +1,3 @@
+/home/gheitner/MA3/build/CMakeFiles/MA3.dir
+/home/gheitner/MA3/build/CMakeFiles/edit_cache.dir
+/home/gheitner/MA3/build/CMakeFiles/rebuild_cache.dir

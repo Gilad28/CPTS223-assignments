@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -g CMakeFiles/MA3.dir/main.cpp.o -o MA3 
