@@ -1,0 +1,3 @@
+/Users/giladheitner/Desktop/PA3/build/CMakeFiles/PA3.dir
+/Users/giladheitner/Desktop/PA3/build/CMakeFiles/edit_cache.dir
+/Users/giladheitner/Desktop/PA3/build/CMakeFiles/rebuild_cache.dir
